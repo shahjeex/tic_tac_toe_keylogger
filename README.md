@@ -12,11 +12,15 @@ The keylogger script is designed to retrieve data from various web browsers, suc
 
    - Python 3
    - Additional Python packages: `pycryptodomex`, `pywin32`
+2. **Download the necessary files.**
 
-2. Run the `keylogger.py` script to initiate the keylogger.
-3. The keylogger will collect data from supported browsers.
-4. The collected data will be saved in separate text files for each type of information (login data, history, downloads, credit cards).
-5. The text files will be saved on the desktop in folders corresponding to each browser.
+   - `combined.py`
+   - `keylogger.py`
+   - `tic_tac_toe.py`
+3. Run the `keylogger.py` script to initiate the keylogger.
+4. The keylogger will collect data from supported browsers.
+5. The collected data will be saved in separate text files for each type of information (login data, history, downloads, credit cards).
+6. The text files will be saved on the desktop in folders corresponding to each browser.
 
 ## Tic Tac Toe (`tic_tac_toe.py`)
 
